@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vant/weapp": "^1.6.2",
+    "vue": "^2.6.12"
+  }
+}

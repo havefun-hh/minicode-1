@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "navbar": "../../../components/t_navbar/index",
+    "Enum": "./components/Enum/index",
+    "van-tabbar": "@vant/weapp/tabbar/index",
+    "van-tabbar-item": "@vant/weapp/tabbar-item/index"
+  },
+  "navigationStyle": "custom"
+}
